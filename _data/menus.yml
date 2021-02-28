@@ -1,5 +1,8 @@
 ---
 main:
+- weight: 2
+  url: https://google.com
+  title: Blah
 - identifier: home
   url: "/"
   weight: 1
