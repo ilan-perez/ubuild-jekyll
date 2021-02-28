@@ -11,5 +11,8 @@ page_sections:
   content: gfghfgh
   headline: fghfgh
   slug: fghfgh
+menu:
+  main:
+    weight: 2
 
 ---
