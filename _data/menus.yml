@@ -1,6 +1,9 @@
 ---
 main:
 - weight: 2
+  title: qwerty
+  url: https://www.pyramidanalytics.com
+- weight: 3
   url: https://google.com
   title: Blah
 - identifier: home
