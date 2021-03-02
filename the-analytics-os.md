@@ -16,36 +16,25 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2021/03/02/release_2020-10_-_1920x350_release_2020-10.jpg"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+  headline: Balance user productivity and governance
+  content: The Analytics OS is an adaptive analytic platform that provides different
+    capabilities and experiences based on user needs and skills, all while managing
+    content as a shared resource. It provides organizations with one analytics solution
+    for everyone, across all user types and skill levels. With the Analytics OS, data
+    leaders can create a universal analytics environment that finally solves <em>today’s</em>
+    analytic needs and prepares the organization for <em>tomorrow’s</em> data and
+    technology challenges.<img src="https://www.pyramidanalytics.com/images/default-source/default-album/main_platform.png?sfvrsn=6f97f9c9_0"
+    title="Enterprise Trusted Analytics Platform" alt="Enterprise Trusted Analytics
+    Platform"><strong>Pyramid is the Analytics OS. </strong>It is an agnostic analytics
+    platform that can be deployed in any environment and runs on any device. It features
+    six distinct analytics modules (Model, Formulate, Discover, Illustrate, Present,
+    and Publish)—plus an Administrative Console and Content Management System—to deliver
+    a truly universal analytics experience.The latest version of Pyramid is now available!
+    Pyramid v2020 brings more people under the analytics tent than ever before. Now
+    your users can do more than they ever thought possible.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
