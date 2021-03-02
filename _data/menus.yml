@@ -1,7 +1,7 @@
 ---
 main:
 - weight: 2
-  title: qwerty
+  title: Qwerty
   url: https://www.pyramidanalytics.com
 - weight: 3
   url: https://google.com
