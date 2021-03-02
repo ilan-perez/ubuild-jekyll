@@ -11,6 +11,5 @@ page_sections:
   content: gfghfgh
   headline: fghfgh
   slug: fghfgh
-published: false
 
 ---
